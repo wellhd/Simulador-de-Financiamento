@@ -1,0 +1,15 @@
+body {
+  background-image: url(../_imagens/a1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.AB {
+  text-align: center;
+  margin-top: 1%;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  font-weight: bold;
+  box-sizing: content-box;
+}
